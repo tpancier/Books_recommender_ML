@@ -1,4 +1,4 @@
-# The Book Club Project
+# Book Club Project
 
 This project implements a recommendation system for books and readers.
 
